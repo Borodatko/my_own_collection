@@ -1,0 +1,6 @@
+---
+# tasks file for create-role
+- name: Create file
+  my_own_namespace.my_own_collection.create:
+    path: "{ file_path }"
+    content: "{ file_content }"

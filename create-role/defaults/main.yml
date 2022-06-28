@@ -1,0 +1,4 @@
+---
+# defaults file for create-role
+file_path: ./example.txt
+file_content: "Hello World\n"
