@@ -1,5 +1,0 @@
----
-- name: Assert create file module
-  hosts: localhost
-  roles:
-    create-file
